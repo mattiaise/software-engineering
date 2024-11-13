@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab03.ForthInterpreterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-16T13:20:36" hostname="MAPIX" time="0.094">
+  <properties/>
+  <testcase name="[1] pippo, Token error 'pippo'" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.081"/>
+  <testcase name="[2] 1 2 pippo, Token error 'pippo'" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.003"/>
+  <testcase name="[3] 1 : raddoppia 2 * ; raddoppi raddoppia, Token error 'raddoppi'" classname="it.unimi.di.sweng.lab03.ForthInterpreterTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
