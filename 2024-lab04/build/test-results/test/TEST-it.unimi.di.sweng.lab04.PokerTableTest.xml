@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab04.PokerTableTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2024-11-05T11:09:25" hostname="MAPIX" time="0.034">
+  <properties/>
+  <testcase name="pokerTableChange()" classname="it.unimi.di.sweng.lab04.PokerTableTest" time="0.034">
+    <failure message="java.util.NoSuchElementException" type="java.util.NoSuchElementException">java.util.NoSuchElementException
+	at java.base/java.util.LinkedList.removeFirst(LinkedList.java:274)
+	at java.base/java.util.LinkedList.pop(LinkedList.java:805)
+	at it.unimi.di.sweng.lab04.PokerTable.lambda$change$0(PokerTable.java:56)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at it.unimi.di.sweng.lab04.PokerTable.change(PokerTable.java:56)
+	at it.unimi.di.sweng.lab04.PokerTableTest.pokerTableChange(PokerTableTest.java:79)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
