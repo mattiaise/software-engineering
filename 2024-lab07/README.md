@@ -1,15 +1,6 @@
 # CORSO INGEGNERIA DEL SOFTWARE A.A. 2024/25
 
-## LABORATORIO 7 (VALUTATO)
-
-* TEAMMATE 1: Isetta Mattia 02265A
-* TEAMMATE 2: Hirose Yu 01651A
-
-Ogni coppia di studenti effettua il **fork** di questo repository.
-L'utente che ha effettuato il fork modifica questo README inserendo le opportune **informazioni sui
-membri del team** seguendo lo schema sopra riportato.
-Inoltre, concede i permessi di scrittura al proprio compagno di team e i **permessi di lettura** ai
-docenti (`carlo.bellettini` e `mattia.monga`).
+## LABORATORIO 7
 
 ## Scartino a 2
 

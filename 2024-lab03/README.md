@@ -2,16 +2,6 @@
 
 ## LABORATORIO 3
 
-MATRICOLA: 02265A
-
-Ogni coppia di studenti procede a effettuare il **fork** di questo repository.
-L'utente che ha effettuato il fork modifica questo README inserendo le opportune **informazioni sui
-membri del team** seguendo lo schema sopra riportato.
-Inoltre, concede i permessi di scrittura al proprio compagno di team e i **permessi di lettura** ai
-docenti (`carlo.bellettini` e `mattia.monga`).
-
-
-
 ### Processo
 
 Una volta effettuato il **clone** del repository, il gruppo implementa secondo la *metodologia TDD*

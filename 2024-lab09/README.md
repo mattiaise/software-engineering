@@ -2,12 +2,6 @@
 
 ## LABORATORIO 09
 
-Ogni coppia di studenti procede a effettuare il **fork** di questo repository.
-L'utente che ha effettuato il fork modifica questo README inserendo le opportune **informazioni sui
-membri del team** seguendo lo schema sopra riportato.
-Inoltre, concede i permessi di scrittura al proprio compagno di team e i **permessi di lettura** ai
-docenti (`carlo.bellettini` e `mattia.monga`).
-
 ## Processo
 
 Il progetto va implementato secondo la *metodologia TDD*, utilizzando `git flow`, quindi occorre iniziare con un `git flow init`.

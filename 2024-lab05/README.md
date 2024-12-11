@@ -2,18 +2,6 @@
 
 ## LABORATORIO 5
 
-* TEAMMATE 1: <Cognome> <Nome> <matricola>
-* TEAMMATE 2: <Cognome> <Nome> <matricola>
-
-Ogni coppia di studenti procede a effettuare il **fork** di questo repository.
-L'utente che ha effettuato il fork modifica questo README inserendo le opportune **informazioni sui
-membri del team** seguendo lo schema sopra riportato.
-Inoltre, concede i permessi di scrittura al proprio compagno di team e i **permessi di lettura** ai
-docenti (`carlo.bellettini` e `mattia.monga`).
-
-Come al solito, sfruttate questo laboratorio per rinforzare le vostre conoscenze di `git flow` e 
-uso corretto dei branch di tipo feature e release.
-
 ## Rubamazzetto
 
 Il codice fornito simula partite a rubamazzetto. Ogni giocatore inizialmente
