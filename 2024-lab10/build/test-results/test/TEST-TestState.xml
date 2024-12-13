@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestState" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-13T14:46:22" hostname="MAPIX" time="0.063">
+  <properties/>
+  <testcase name="testGetterSetterTotal()" classname="TestState" time="0.06"/>
+  <testcase name="testGetterSetter()" classname="TestState" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
