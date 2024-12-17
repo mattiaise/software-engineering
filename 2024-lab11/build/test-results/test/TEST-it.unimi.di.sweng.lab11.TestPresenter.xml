@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.lab11.TestPresenter" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-17T15:01:02" hostname="MAPIX" time="2.506">
+  <properties/>
+  <testcase name="testSetDataInView()" classname="it.unimi.di.sweng.lab11.TestPresenter" time="2.506"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
